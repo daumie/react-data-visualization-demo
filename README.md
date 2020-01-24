@@ -1,5 +1,7 @@
 # React Data Visualization
 
+[![buddy pipeline](https://app.buddy.works/buddy-articles-demos/react-data-visualization-demo/pipelines/pipeline/235524/badge.svg?token=309901d81675b072e64e9d78b87a0953c7cb7660d2eb987da71421a3996a4f34 "buddy pipeline")](https://app.buddy.works/buddy-articles-demos/react-data-visualization-demo/pipelines/pipeline/235524)
+
 A ReactJS web application that shows current value of Bitcoin and others currencies.
 
 ## Getting Started
